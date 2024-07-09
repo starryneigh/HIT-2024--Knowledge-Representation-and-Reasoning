@@ -1,4 +1,4 @@
-# HIT-2024---Knowledge-Representation-and-Reasoning
+# HIT-2024--Knowledge-Representation-and-Reasoning
 
 知识表示与推理的一些资料，具体分为以下几个部分：
 
